@@ -6,6 +6,7 @@ namespace MyBanker
 
         public DebitCard()
         {
+            //this prefix is static because it does not have options
             preFix = 2400;
             base.GenerateCardNumber(12);
         }

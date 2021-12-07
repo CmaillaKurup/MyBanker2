@@ -4,16 +4,9 @@
     <projectFile>MyBanker/MyBanker.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c44131a0-c0d3-4830-b4b9-e7e3b16a0856" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyBanker/Account.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBanker/Card.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBanker/DebitCard.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBanker/INonCreditCard.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBanker/Maestro.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBanker/Mastercard.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBanker/Visa.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyBanker/VisaElectron.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBanker/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyBanker/Program.cs" afterDir="false" />
+    <list default="true" id="c44131a0-c0d3-4830-b4b9-e7e3b16a0856" name="Default Changelist" comment="Opgaven vil jeg mene er løst ganske fint. Mangler dog kommentarer rundt omkring i koden. ikke sikkert jeg når det, men vil bestræbe mig efter det">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyBanker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyBanker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBanker/Account.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyBanker/Account.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +31,12 @@
       <option value="$PROJECT_DIR$/MyBanker/INonCreditCard.cs" />
       <option value="$PROJECT_DIR$/MyBanker/Card.cs" />
       <option value="$PROJECT_DIR$/MyBanker/Program.cs" />
-      <option value="$PROJECT_DIR$/MyBanker/Account.cs" />
       <option value="$PROJECT_DIR$/MyBanker/VisaElectron.cs" />
       <option value="$PROJECT_DIR$/MyBanker/Mastercard.cs" />
       <option value="$PROJECT_DIR$/MyBanker/Visa.cs" />
       <option value="$PROJECT_DIR$/MyBanker/DebitCard.cs" />
       <option value="$PROJECT_DIR$/MyBanker/Maestro.cs" />
+      <option value="$PROJECT_DIR$/MyBanker/Account.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="21xPjO8p8ujzkRMVhm5ReK8yyd3" />
@@ -87,8 +80,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638879900177</updated>
-      <workItem from="1638879904415" duration="11725000" />
+      <workItem from="1638879904415" duration="12636000" />
     </task>
+    <task id="LOCAL-00001" summary="Opgaven vil jeg mene er løst ganske fint. Mangler dog kommentarer rundt omkring i koden. ikke sikkert jeg når det, men vil bestræbe mig efter det">
+      <created>1638910276342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638910276342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
@@ -106,50 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/MyBanker/Program.cs</url>
-          <line>12</line>
-          <properties documentPath="$PROJECT_DIR$/MyBanker/Program.cs" initialLine="12" containingFunctionPresentation="method 'Main'">
-            <startOffsets>
-              <option value="219" />
-            </startOffsets>
-            <endOffsets>
-              <option value="263" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/MyBanker/Program.cs</url>
-          <line>15</line>
-          <properties documentPath="$PROJECT_DIR$/MyBanker/Program.cs" initialLine="15" containingFunctionPresentation="method 'Main'">
-            <startOffsets>
-              <option value="333" />
-            </startOffsets>
-            <endOffsets>
-              <option value="361" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/MyBanker/Program.cs</url>
-          <line>17</line>
-          <properties documentPath="$PROJECT_DIR$/MyBanker/Program.cs" initialLine="17" containingFunctionPresentation="method 'Main'">
-            <startOffsets>
-              <option value="375" />
-            </startOffsets>
-            <endOffsets>
-              <option value="440" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Opgaven vil jeg mene er løst ganske fint. Mangler dog kommentarer rundt omkring i koden. ikke sikkert jeg når det, men vil bestræbe mig efter det" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opgaven vil jeg mene er løst ganske fint. Mangler dog kommentarer rundt omkring i koden. ikke sikkert jeg når det, men vil bestræbe mig efter det" />
   </component>
 </project>

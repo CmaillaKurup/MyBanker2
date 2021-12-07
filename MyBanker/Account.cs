@@ -6,8 +6,8 @@ namespace MyBanker
     public class Account
     {
         private string accountNumber { get; set; }
-        private string name { get; set; }
-        private List<Card> cards { get; set; }
+        private string name { get; }
+        private List<Card> cards { get; }
 
 
         public Account(string name)
@@ -17,6 +17,7 @@ namespace MyBanker
             GenerateAccountNumber();
         }
 
+        //Generating account number by random
         private void GenerateAccountNumber()
         {
             Random rnd = new Random();
@@ -32,6 +33,7 @@ namespace MyBanker
             accountNumber = regNum + genNum;
         }
         
+        //adding cards
         public void AddCard( Card card)
         {
             card.accountNumber = accountNumber;

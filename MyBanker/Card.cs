@@ -7,6 +7,7 @@ namespace MyBanker
         public string number;
         public string accountNumber;
 
+        //as the title of the functions says I generetates cardnumbers here
         public void GenerateCardNumber(int cifre)
         {
             Random rnd = new Random();
